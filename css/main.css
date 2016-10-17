@@ -37,7 +37,7 @@ h2 {
 }
 
 .btn {
-  color: #fff;
+  color: #f0eee8;
   padding: 0.4em 0.75em 0.5em;
   background-color: #785439;
   border-radius: 8px;
@@ -67,4 +67,9 @@ dt {
 .btn-wrap {
   text-align: center;
   margin-top: 1.5rem;
+}
+
+.link-card:hover .btn {
+  background-color: #512200;
+  border-color: #512200;
 }
